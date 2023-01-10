@@ -1,4 +1,4 @@
-# hello-world
+# Daily News mobile App
 
 ## Project setup
 ```
